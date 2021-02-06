@@ -1,0 +1,3 @@
+[submodule "compilerplugin"]
+	path = compilerplugin
+	url = https://github.com/lnoto/maven-incremental-build-plugin.git
